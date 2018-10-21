@@ -1,0 +1,8 @@
+{
+  "name": "Red Saint",
+  "description": "A collection of 3,578 Scarf Ninjas fighting the devil in the Cronos blockchain.",
+  "image": "https://twitter.com/RedSaintNFT/header_photo",
+  "external_link": "redsaint.io",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0x727Bc1921eB2b53424d73b3514178144B6624CFF"
+}
